@@ -1,0 +1,56 @@
+/* CSS Document */
+body {background:#CCCCCC }
+
+#wrapper { height: 100%; width:o auto;}
+
+#header {height: 100px; background-color:#339999;text-align:center;}
+
+#logo {float:left; height:100%; width:50%; background-color:#FFFFFF}
+#logo img {padding-left: 20%; padding-top:10px; }
+
+#menu {float:left; background-color:#FFF; height:100%; width:50%; }
+#menu ul {float:left; padding-top:60px; padding-left:200px;}
+#menu ul li{float:left;  border-right:2px solid #CCCCCC; line-height:20px; }
+#menu ul li a{padding-left:10px; padding-right:10px;  font-family:Arial, Helvetica, sans-serif; font-size:24px; text-decoration:none; color:1A497F; border-radius:20%;} 
+#menu ul li a:hover{background-color:1A497F; color:#FFFFFF}
+#menu ul li:last-child{border-right:none;}
+
+#mapa {text-align:center; }
+
+#main {width:1099px; height:800px; margin:0 auto; background-color:#245B43; } 
+#lista{clear:both; overflow:hidden;}
+#lista {float:left; width:40%; height:800px; margin:0 auto; } 
+#lista h6 { font-family:Arial, Helvetica, sans-serif; font-size:34px;  color:FFF; text-align:center; padding-top:50px; padding-bottom:10px; }
+#lista ul { padding-top:60px; padding-left:20px; list-style:outside; }
+#lista ul li{ padding-bottom:20px; }
+#lista ul li a{padding-left:10px; padding-right:10px;  font-family:Arial, Helvetica, sans-serif; font-size:24px; text-decoration:none; color:#FFF; border-radius:10%; } 
+#lista ul li a:hover{background-color:#CCCCCC; color:#245B43}
+#lista ul li:last-child{border-right:none;}
+
+
+#ofertas {float:left; width:60%; height:800px; margin:0 auto; background-color:#009933; } 
+.oferta{height:50%; }
+.oferta h6 { font-family:Arial, Helvetica, sans-serif; font-size:34px;  color:FFF; text-align:center; padding-top:10px; padding-bottom:5px; }
+.oferta { padding-top:10px; padding-left:20px; list-style:outside; text-align:right}
+.oferta{ padding-bottom:10px; }
+.oferta a{padding-left:10px; padding-right:10px;  font-family:Arial, Helvetica, sans-serif; font-size:24px; text-decoration:none; color:#FFF;  } 
+.oferta a:hover{background-color:#CCCCCC; color:#009933}
+
+
+
+#linea{height:10px; background-color:#CCCCCC}
+#footer{clear:both; overflow:hidden;}
+#footer{height:150px; background-color:#E83D0D}
+#a{clear:both; overflow:hidden;}
+#a {float:left; width:40%; height:100%; }
+#a ul {float:left; padding-top:60px; padding-left:200px;}
+#a ul li{float:left;   line-height:20px; }
+#a ul li a{float:left; padding-left:10px; padding-right:10px; text-decoration:none; border-radius:20%;} 
+
+#b {float:left; width:40%; height:100%; padding-left:200px; }
+#b h6 { font-family:Arial, Helvetica, sans-serif; font-size:34px;  color:FFF; text-align:center; padding-top:10px; padding-bottom:10px; }
+#b p{ font-family:Arial, Helvetica, sans-serif; font-size:24px;  color:FFF; text-align:center; padding-top:5px; }
+
+
+#yo {height:20px;}
+#yo p{font-family:Arial, Helvetica, sans-serif; font-size:14px;  color:#000000; text-align:center; padding-top:5px;}
